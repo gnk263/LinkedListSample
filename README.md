@@ -2,7 +2,8 @@
 C言語の線形リストのサンプルです（初心者向け）
 
 ## 環境
-Visual Studio 2017 Community
+* Windows 10
+* Visual Studio 2017 Community
 
 ## 仕様
 * ユーザは数値をキーボードで10回入力する
